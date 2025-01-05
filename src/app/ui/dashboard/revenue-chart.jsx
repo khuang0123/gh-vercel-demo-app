@@ -7,7 +7,7 @@ import { lusitana } from '@/app/ui/fonts';
 // https://www.tremor.so/
 // https://www.chartjs.org/
 // https://airbnb.io/visx/
-
+//
 export default async function RevenueChart({
   revenue,
 }) {
